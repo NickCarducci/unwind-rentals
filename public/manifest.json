@@ -1,0 +1,13 @@
+{
+  "short_name": "Thumbprint",
+  "name": "Thumbprint",
+  "background_color": "#FFF",
+  "theme_color": "#FFF",
+  "starturl": "/public/index.html",
+  "display": "standalone",
+  "icons": {
+    "src": "logo_144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }
+}
